@@ -13,7 +13,7 @@
         <maven-resources-plugin.version>3.0.2</maven-resources-plugin.version>
         <java.version>1.8</java.version>
         <charset>UTF-8</charset>
-        <elasticsearch.version>5.6.0</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <project.build.sourceEncoding>${charset}</project.build.sourceEncoding>
     </properties>
 
